@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+/* CSS for the holder */
+.holder {
+  display: flex; /* Use flexbox */
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  justify-content: space-evenly; /* Evenly space items across the row */
+}
